@@ -13,7 +13,8 @@ find_package(catkin REQUIRED COMPONENTS
   moveit_ros_planning
   moveit_ros_planning_interface
   rll_msgs
-  rll_move
+  rll_move_real
+  moveit_wrapper
   genmsg actionlib_msgs actionlib
 )
 

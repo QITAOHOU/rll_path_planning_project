@@ -1,0 +1,6 @@
+- git: {local-name: rll_sdk, uri: 'https://gitlab.ipr.kit.edu/rll/rll_sdk.git', version: master}
+- git: {local-name: rll_moving_robots, uri: 'https://gitlab.ipr.kit.edu/rll/rll_moving_robots.git', version: master}
+- git: {local-name: moveit_wrapper, uri: 'https://gitlab.ipr.kit.edu/uieai/moveit_wrapper.git', version: master}
+- git: {local-name: iiwa_fri_hw_interface, uri: 'https://gitlab.ipr.kit.edu/rll/iiwa_fri_hw_interface.git', version: master}
+- git: {local-name: schunk_gripper_egl90, uri: 'https://gitlab.ipr.kit.edu/rll/schunk_gripper_egl90.git', version: master}
+

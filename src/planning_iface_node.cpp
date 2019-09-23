@@ -18,7 +18,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <planning_iface_simulation.h>
+#include <planning_iface_real.h>
 
 int main(int argc, char** argv)
 {

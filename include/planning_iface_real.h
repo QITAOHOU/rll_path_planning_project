@@ -22,8 +22,8 @@
 #define RLL_PLANNING_PROJECT_IFACE_SIM_H
 
 #include <planning_iface.h>
-#include <rll_move/move_iface_simulation.h>
+#include <rll_move_real/move_iface.h>
 
-using PlanningIface = RLLCombinedMoveIface<PlanningIfaceBase, RLLSimulationMoveIface>;
+using PlanningIface = RLLCombinedMoveIface<PlanningIfaceBase, RLLMoveIfaceReal>;
 
 #endif  // RLL_PLANNING_PROJECT_IFACE_SIM_H
